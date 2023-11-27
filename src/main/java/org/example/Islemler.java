@@ -1,7 +1,5 @@
 package org.example;
 
-import org.example.DataBase.*;
-
 import java.util.Random;
 
 public class Islemler {
